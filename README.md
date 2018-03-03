@@ -1,1 +1,1 @@
-# git_test
+This is Sarah's first project!
